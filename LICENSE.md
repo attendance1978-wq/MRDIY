@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2025 MRDIY
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...
+(standard MIT license continues)
